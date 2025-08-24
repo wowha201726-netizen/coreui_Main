@@ -58,9 +58,9 @@ const App = () => {
           <Routes>
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
-            {/* <Route path="/404" element={<ProtectedRoute><Page404 /></ProtectedRoute>} />
+            <Route path="/404" element={<ProtectedRoute><Page404 /></ProtectedRoute>} />
             <Route path="/500" element={<ProtectedRoute><Page500 /></ProtectedRoute>} />
-            <Route path="*" element={<ProtectedRoute><DefaultLayout /></ProtectedRoute>} /> */}
+            <Route path="*" element={<ProtectedRoute><DefaultLayout /></ProtectedRoute>} />
           </Routes>
         </Suspense>
       </AuthProvider>

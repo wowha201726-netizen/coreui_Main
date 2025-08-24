@@ -35,11 +35,12 @@ const AppSidebar = () => {
         dispatch({ type: 'set', sidebarShow: visible })
       }}
     >
-      <CSidebarHeader className="border-bottom">
-        <CSidebarBrand to="/">
-          <CIcon customClassName="sidebar-brand-full" icon={logo} height={32} />
+      <CSidebarHeader className="border-bottom d-flex justify-content-center align-items-center">
+        <div className="fw-bold">Wonderson Bradly</div>
+        <CSidebarBrand to="/" >
+{/*           <CIcon customClassName="sidebar-brand-full" icon={logo} height={32} />
           <CIcon customClassName="sidebar-brand-narrow" icon={sygnet} height={32} />
-        </CSidebarBrand>
+ */}        </CSidebarBrand>
         <CCloseButton
           className="d-lg-none"
           dark
