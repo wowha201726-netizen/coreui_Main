@@ -20,7 +20,7 @@
 
 CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop. The CoreUI Layout API lets you customize your project for almost any device – be it Mobile, Web or WebApp – CoreUI covers them all!
 
-## Table of Contents
+<!-- ## Table of Contents
 
 * [Versions](#versions)
 * [CoreUI PRO](#coreui-pro)
@@ -36,7 +36,7 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 * [Community](#community)
 * [Support CoreUI Development](#support-coreui-development)
 * [Copyright and License](#copyright-and-license)
-<!-- ## Versions
+  ## Versions
 
 * [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 * [CoreUI Free Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
@@ -44,15 +44,15 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 * [CoreUI Free React.js Admin Template (Create React App)](https://github.com/coreui/coreui-free-react-admin-template-cra)
 * [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template) -->
 
-## CoreUI PRO
+<!-- ## CoreUI PRO
 
 * 💪  [CoreUI PRO Angular Admin Template](https://coreui.io/product/angular-dashboard-template/)
 * 💪  [CoreUI PRO Bootstrap Admin Template](https://coreui.io/product/bootstrap-dashboard-template/)
 * 💪  [CoreUI PRO Next.js Admin Template](https://coreui.io/product/next-js-dashboard-template/)
 * 💪  [CoreUI PRO React Admin Template](https://coreui.io/product/react-dashboard-template/)
 * 💪  [CoreUI PRO Vue Admin Template](https://coreui.io/product/vue-dashboard-template/)
-
-## CoreUI PRO React Admin Templates
+ -->
+## CoreUI_Main Theme
 
 | Default Theme | Light Theme |
 | --- | --- |
